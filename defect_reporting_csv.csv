@@ -1,0 +1,12 @@
+﻿                                                                         Defect Template,,,,,,,,,,
+Project Name,,,Reviewed By,,,,,,,
+Author,,,Reviwed On,,,,,,,
+Bug id,Summary/Title,Status,Severity,Priority,Description,Build Version,Test Case Name/ID,Reported By,Assigned To,Comments
+CR_001,System displays Server in application error message,New,high,p3,"Steps To Reproducce:
+1.Launch Url in Firefox browser
+2.Login as Admin user
+3.Click Change password button
+Expected Results:
+System displays Change Password Page.
+Actual Results:
+System displays Server in application Error",2.4,TC_003_Validate Admin Home page,Akash p,Unassigned,

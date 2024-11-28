@@ -1,0 +1,22 @@
+﻿TCID,ModuleName,TesterName,Status of Test case,Priority,Severity,Defect status,Defect id
+"TC_001 validate 
+admin login with valid data",Admin,Akash p,pass,,,,
+"TC_002 validate 
+admin login with invalid data",Admin,Akash p,pass,,,,
+"TC_003 validate 
+admin home page",Admin home page,Akash p,fail,,,,
+"TC_004 validate 
+branch search",branches,Akash p,fail,,,,
+"TC_005 validate 
+New branch creation with valid data ",branches,Akash p,pass,,,,
+"TC_006 validate 
+New branch creation with invalid data ",branches,Akash p,pass,,,,
+"TC_007 validate 
+ branch updation  ",branches,Akash p,pass,,,,
+"TC_008 validate 
+ branch deletion ",branches,Akash p,pass,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
